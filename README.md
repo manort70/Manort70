@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Manuel Ortega | Senior Tech Lead & Infrastructure Architect
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> Hello, I'm Manuel Ortega | Infrastructure Tech Lead                             
 
 **Accomplished Tech Lead** with **20+ years** of experience specializing in enterprise virtualization, large-scale cloud migrations, and infrastructure engineering. I have a proven track record of leading complex deployments, enhancing security postures, and driving operational excellence across global environments spanning **10,000+ servers**.
 
@@ -55,8 +55,8 @@ I bridge the gap between deep technical infrastructure and strategic business go
 
 I am always interested in connecting with fellow technology professionals, discussing industry trends, and exploring new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manort/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manort70@protonmail.com)
 
 ---
 
